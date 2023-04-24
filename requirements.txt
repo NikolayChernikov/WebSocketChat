@@ -1,4 +1,6 @@
-fastapi
+fastapi~=0.95.1
 uvicorn
 websockets
 redis
+pydantic~=1.10.7
+starlette~=0.26.1
